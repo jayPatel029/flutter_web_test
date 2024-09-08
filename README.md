@@ -1,6 +1,6 @@
 # flutter_web_task
 
-A new Flutter project.
+A new Fluttehttps://github.com/jayPatel029/flutter_web_testr project.
 
 ## Getting Started
 
@@ -12,5 +12,12 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on mobile development, and a full API reference.
+
+
+## Screenshots
+
+Here is a screenshot of the application:
+
+![Screenshot](https://drive.google.com/file/d/1BWNK8MkDL97mkL_3tWJR5tzSn2PxjiWy/view?usp=sharing) 
+Replace this URL with the actual URL of your screenshot image.
